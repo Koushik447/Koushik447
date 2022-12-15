@@ -1,4 +1,3 @@
-![logo](https://github.com/Koushik447/Koushik447/blob/main/Github_banner.png)
 <h1 align="center">Hi 👋, I'm Koushik Sarkar</h1>
 <h3 align="center">A passionate frontend developer..</h3>
 
